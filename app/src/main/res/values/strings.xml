@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Todo Example</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_todo">Todo</string>
+    <string name="title_activity_user">Users</string>
+    <string name="users_button">Users</string>
+    <string name="todos_button">Todos</string>
+    <string name="add_item_button">Save</string>
+    <string name="refresh_button">Refresh</string>
+</resources>
